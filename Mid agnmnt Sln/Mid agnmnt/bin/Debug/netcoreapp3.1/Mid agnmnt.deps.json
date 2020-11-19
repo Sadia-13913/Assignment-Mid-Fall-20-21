@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mid agnmnt/1.0.0": {
+        "runtime": {
+          "Mid agnmnt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mid agnmnt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

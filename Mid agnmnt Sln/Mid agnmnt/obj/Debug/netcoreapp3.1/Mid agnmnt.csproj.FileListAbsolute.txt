@@ -1,0 +1,26 @@
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.exe
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.deps.json
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.runtimeconfig.json
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.runtimeconfig.dev.json
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.dll
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.pdb
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.csprojAssemblyReference.cache
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.AssemblyInfoInputs.cache
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.AssemblyInfo.cs
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.csproj.CoreCompileInputs.cache
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.dll
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.pdb
+G:\C#\Mid assignment\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.genruntimeconfig.cache
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.exe
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.deps.json
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.runtimeconfig.json
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.runtimeconfig.dev.json
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.dll
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\bin\Debug\netcoreapp3.1\Mid agnmnt.pdb
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.csprojAssemblyReference.cache
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.AssemblyInfoInputs.cache
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.AssemblyInfo.cs
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.csproj.CoreCompileInputs.cache
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.dll
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.pdb
+G:\C#\Mid assignment\Give Away\Mid agnmnt Sln\Mid agnmnt\obj\Debug\netcoreapp3.1\Mid agnmnt.genruntimeconfig.cache
